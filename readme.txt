@@ -6,4 +6,4 @@ Git tracks changes a line of files1.
 test GitHub
 now i change to dev
 Creating a new branch is quick and simple.
-test no-ff
+test no-ff is ok
